@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_25" class="java.beans.XMLDecoder">
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>tulio</string>
+   <object class="br.edu.model.Livros">
+    <void property="autor">
+     <string>lala</string>
+    </void>
+    <void property="codigo">
+     <int>2</int>
+    </void>
+    <void property="genero">
+     <string>lala</string>
+    </void>
+    <void property="nome">
+     <string>tulio</string>
+    </void>
+    <void property="quantidade">
+     <int>10</int>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>Harry</string>
+   <object class="br.edu.model.Livros">
+    <void property="autor">
+     <string>Seila</string>
+    </void>
+    <void property="codigo">
+     <int>3</int>
+    </void>
+    <void property="genero">
+     <string>Seila</string>
+    </void>
+    <void property="nome">
+     <string>Harry</string>
+    </void>
+    <void property="quantidade">
+     <int>20</int>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

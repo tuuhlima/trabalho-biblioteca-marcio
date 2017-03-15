@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_25" class="java.beans.XMLDecoder">
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>usuario12</string>
+   <object class="br.edu.model.Usuario">
+    <void property="password">
+     <string>12345678</string>
+    </void>
+    <void property="tipos">
+     <int>1</int>
+    </void>
+    <void property="usuario">
+     <string>usuario12</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>funcionario12</string>
+   <object class="br.edu.model.Usuario">
+    <void property="password">
+     <string>12345678</string>
+    </void>
+    <void property="usuario">
+     <string>funcionario12</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
